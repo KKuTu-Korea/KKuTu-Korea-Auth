@@ -1,0 +1,29 @@
+{
+  "name": "kkutukoreaauth",
+  "version": "1.0.0",
+  "description": "KKuTu Korea Auth System",
+  "author": "kdwkr <me@kdw.kr> (Kim-Daewoon)",
+  "main": "index.js",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "btoa": "^1.2.1",
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3",
+    "helmet": "^3.12.1",
+    "mailgun-js": "^0.18.0",
+    "morgan": "^1.9.0",
+    "redis": "^2.8.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdwkr/KKuTu-Korea-Auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kdwkr/KKuTu-Korea-Auth/issues"
+  },
+  "homepage": "https://github.com/kdwkr/KKuTu-Korea-Auth#readme"
+}
